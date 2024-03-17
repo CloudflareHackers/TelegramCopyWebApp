@@ -12,7 +12,7 @@
 ## Can you help?
 * Improve Code by adding UI
 * Improve Code by changing JS code to handle multiple things
-* Improve Code by adding more funtionality.
+* Improve Code by adding more functionality.
 * Pull Requests and we'll merge them.
 
 ## Discussion for copyMessages
