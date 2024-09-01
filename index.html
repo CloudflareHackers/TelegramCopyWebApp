@@ -118,7 +118,7 @@
             document.getElementById('outputArea').value += JSON.stringify(data) + "\n";
             if (response.status == 200) {
                 document.getElementById('outputArea').value += "Messages copied successfully" + "\n";
-                await sleep(5000);
+                await sleep(60000);
                 break;
             }
             if (response.status == 429) {
